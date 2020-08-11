@@ -1,9 +1,4 @@
 111111111111
 222222222222222
 33333333333333333
-444444444444444444
-ggggggggggggmimimimimimimmimim<<<<<<< .mine
-hhhhhhhhhhhhhhhhhhhh
-=======
-
->>>>>>> .theirs
+hello哈哈哈哈哈哈哈哈哈哈哈哈哈哈
