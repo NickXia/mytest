@@ -2,6 +2,8 @@
 222222222222222
 33333333333333333
 444444444444444444
-fffffffffffffffffffffffffffff
-ggggggggggggggggg
+ggggggggggggmimimimimimimmimim<<<<<<< .mine
 hhhhhhhhhhhhhhhhhhhh
+=======
+
+>>>>>>> .theirs
